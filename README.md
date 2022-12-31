@@ -1,3 +1,3 @@
 # Raytracing-Flower-THREE.ShaderMaterial
 
-Download / clone repo, open gpuptdemo.html 
+Download repo, open gpuptdemo.html 
