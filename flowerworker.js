@@ -1,7 +1,7 @@
 // proper initialization
 if( 'function' === typeof importScripts) {
-    importScripts("../three.js-r100/build/three.min.js");
-    importScripts("../three.js-r100/examples/js/ParametricGeometries.js");
+    importScripts("./three.js-r148/100/three.min.js");
+    importScripts("./three.js-r148/100/ParametricGeometries.js");
     addEventListener('message', onMessage);
  
     function onMessage(e) { 
